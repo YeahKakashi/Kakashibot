@@ -1,6 +1,6 @@
 {
-      "name": "Shikimori Bot",
-      "description": "A Powerful  Telegram group management bot with anime theme.",
+      "name": "Kakashi Bot",
+      "description": "A Powerfull Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
          "advance",
@@ -9,8 +9,8 @@
          "naorobot"
       ],
     
-   "logo":    "https://telegra.ph/file/05fabeb65cd4c1a80c079.jpg",  
-   "repository": "https://github.com/SOME-1HING/ShikimoriBot",
+   "logo":    "https://telegra.ph/file/bc59d81f38d3c97bc67aa.jpg",  
+   "repository": "https://github.com/YeahKakashi/Kakashibot",
    "buildpacks": [
     {
       "url": "https://github.com/heroku/heroku-buildpack-python"
@@ -43,7 +43,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "2088106582"
+         "value": "5700727404"
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
@@ -55,7 +55,7 @@
       },
       "BOT_USERNAME": {
          "description": "Username of your bot without the @",
-         "value": "micchon_shikimori_bot",
+         "value": "YeahKakashi_bot",
          "required": true
       },
 
@@ -67,12 +67,12 @@
 
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "SOME1HING"
+         "value": "YeahKakashi"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "tyranteyeeee"
+         "value": "Kakashibit_support"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
