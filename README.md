@@ -1,23 +1,23 @@
-<img src="https://telegra.ph/file/53f5a098367ad6d607a3f.jpg" align="right" width="200" height="200"/>
+<img src="https://telegra.ph/file/73267a4c4a2a88e6b4b8e.jpg" align="right" width="200" height="200"/>
 
-# Chika Fujiwara <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+# Kakashi Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[Chika Fujiwara](https://github.com/DEMONSLEADER/Demonrobo) is a Powerful Telegram Bot written in Python using Pyrogram and Py-Tgcalls by which you can manage your groups.
+[Kakashi Bot](https://github.com/YeahKakashi/Kakashibot) is a Powerful Management Bot written in Python using Pyrogram and Py-Tgcalls by which you can manage you groups at advance level via various sources.
+
+# Working Under YeahKakashi
 
 # 🏷 Support / Assistance
 
 Reach out to the maintainer at one of the following places:
 
-- [kayden𝐗yonko](https://https://t.me/OP7AKASH) Owner of the bot.
+- [YeahKakashi](https://https://t.me/YeahKakashi) Owner and developer of this bot.
 
-- Sasta devloper of this bot [Kakashi](https://t.me/YeahKakashi)
+- Contact options listed on this GitHub profile [kakashi](https://github.com/YeahKakashi)
 
-- Contact options listed on [this GitHub profile](https://github.com/DEMONSLEADER)
+- Click here for any support/querie [Telegram Support](https://t.me/kakashibot_support)
 
-- [Telegram Support](https://t.me/YonkoXHQ) Click here for any support/queries.
-
-If you want to say **thank you** or/and support active development of Chika Fujiwara Bot:
-# Join [@Yonkōxhq](https://t.me/YonkoXHQ) Best Telegram Network
+If you want to say **thank you** or/and support active development of Kakashi Bot:
+# Join [Anime Hub](https://t.me/Anime_Hub) Best Telegram Group
 </h2>
 
 <p align="center">
@@ -40,9 +40,9 @@ If you want to say **thank you** or/and support active development of Chika Fuji
 </h2>
 
 <p align="center">
-<a href= "https://t.me/micchon_shikimori_bot"> <img src="https://img.shields.io/badge/Shikimori-Bot-green?style=for-the-badge&logo=telegram" alt=Yor_Forger on Telegram" /> </a>
-<a href= "https://t.me/tyranteyeeee"> <img src="https://img.shields.io/badge/Support-Chat-green?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
-<a href="https://t.me/SOME1_HING"> <img src="https://img.shields.io/badge/SOME1HING-Channel-green?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
+<a href= "https://t.me/YeahKakashi_Bot"> <img src="https://img.shields.io/badge/Kakashi-Bot-green?style=for-the-badge&logo=telegram" alt=Yor_Forger on Telegram" /> </a>
+<a href= "https://t.me/kakashibot_support"> <img src="https://img.shields.io/badge/Support-Chat-green?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
+<a href="https://t.me/YeahKakashi"> <img src="https://img.shields.io/badge/Kakashi-Channel-green?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
 </p>
 
 <h2 align="center">
@@ -50,8 +50,8 @@ If you want to say **thank you** or/and support active development of Chika Fuji
 </h2>
 
 <p align="center">
-<a href="https://github.com/SOME-1HING"> <img src="https://img.shields.io/badge/SOME1HING-Github-magenta?style=for-the-badge&logo=github" alt="SOME-1HING Github" /> </a>
-<a href="https://github.com/asadali32117"> <img src="https://img.shields.io/badge/asadali32117-Github-magenta?style=for-the-badge&logo=github" alt="Ryu120 Github" /> </a>
+<a href="https://github.com/YeahKakashi"> <img src="https://img.shields.io/badge/Kakashi-Github-magenta?style=for-the-badge&logo=github" alt="SOME-1HING Github" /> </a>
+<a href="https://github.com/YeahKakashi"> <img src="https://img.shields.io/badge/Main-Github-magenta?style=for-the-badge&logo=github" alt="Ryu120 Github" /> </a>
 </p>
 
 ## How to setup/deploy.
