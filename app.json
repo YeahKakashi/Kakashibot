@@ -55,7 +55,7 @@
       },
       "BOT_USERNAME": {
          "description": "Username of your bot without the @",
-         "value": "YeahKakashi_bot",
+         "value": "micchon_shikimori_bot",
          "required": true
       },
 
