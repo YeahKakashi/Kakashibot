@@ -92,4 +92,3 @@ pytube
 yt_dlp
 pytimeparse
 youtube_dl
-stackhost.yaml
