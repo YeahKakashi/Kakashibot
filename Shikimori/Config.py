@@ -15,11 +15,11 @@ class Config(object):
     # REQUIRED
     # Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = 123456  # integer value, dont use ""
-    API_HASH = "awoo"
-    BOT_TOKEN = "BOT_TOKEN"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 1606221784  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "SOME1HING"
+    API_ID = "22650238"  # integer value, dont use ""
+    API_HASH = "05bea2c1da3ed72a1d37aa23f60a567f"
+    BOT_TOKEN = "7977093768:AAHLjpNrynvEW5lvLwFYE7Ih6HSaenV00Io"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    OWNER_ID = "7152972694"  # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_USERNAME = "Yeahofficial"
     SUPPORT_CHAT = "tyranteyeeee"  # Your own group for support, do not add the @
     LOG_CHANNEL = (
         -1001150905176
@@ -71,10 +71,10 @@ class Config(object):
     REDIS_URL = "awoo"
     ANIME_NAME = "Shikimori's Not Just a Cutie"
     START_MEDIA = "https://telegra.ph/file/9235d57807362b4e227a3.mp4"
-    BOT_USERNAME = "micchon_shikimori_bot"
+    BOT_USERNAME = "Akeno001bot"
     UPDATE_CHANNEL = "Shikimori_bot_Updates"
     ALIVE_MEDIA = "https://telegra.ph/file/2b04f7812f22b983f8a10.mp4"
-    BOT_ID = 5169508699
+    BOT_ID = 7977093768
     STATS_IMG = "awoo"
     NETWORK_USERNAME = "VoidxNetwork"
     NETWORK = "【V๏ɪ፝֟𝔡】»Network«"
